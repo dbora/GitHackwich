@@ -21,7 +21,11 @@
     
     NSLog(@"Anything here");
     
-    NSLog(@"Something new and exciting, for conflict.");
+
+    NSLog(@"Something new and exciting, for conflict."); //comment added in XCode after changes to Github
+
+    NSLog(@"Something other comment.");  //comment added in Github
+
 }
 
 - (void)didReceiveMemoryWarning
