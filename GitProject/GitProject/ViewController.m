@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Anything here");
+    
+    NSLog(@"Something other comment.");
 }
 
 - (void)didReceiveMemoryWarning
